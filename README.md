@@ -8,6 +8,8 @@ As we progressed with the project, we modified our dataset to better suit our ob
 
 Then we have two jupyter notebook file, each one of them is dedicated for one method.
 
-
+The "mistral-7b-4bit-qlora-fine-tuning.ipynb" file encapsulates the culmination of our collaborative efforts. It represents a comprehensive integration of various techniques and methodologies aimed at fine-tuning a Mistral-7B model using 4-bit quantization and QLora training. This notebook serves as a detailed guide, providing step-by-step instructions on preprocessing data, configuring the model architecture, defining hyperparameters, and training the model. 
+Additionally, it includes sections on saving the trained model, evaluating its performance, and deploying it for inference tasks. 
+By making this notebook available in the GitHub repository, stakeholders can access a structured and executable document that not only demonstrates the implementation of advanced machine learning techniques but also fosters further collaboration and learning within the project team and the broader community.
 
 Finaly we have the dataset in the txt format.

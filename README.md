@@ -1,3 +1,8 @@
+# Project Contribution
+
+![image](https://github.com/Sofyane-chraki/LLM-Project-ICL-vs-PEFT-/assets/91961463/c32f27fd-0bd7-43a3-9b36-220b9c3b5dc6)
+
+
 # LLM-Project-ICL-vs-PEFT-
 Here's the repository for the LLM project. Its purpose is to train a Large Language Model (LLM) for question-answering about a specific topic. Additionally, we aim to compare two methods of model training and understand the advantages and drawbacks of each.
 

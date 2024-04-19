@@ -21,13 +21,9 @@ Finaly we have the dataset in the txt format.
 
 The "ICL(RAG).ipynb" file contains our work about the In-Context Learning method. For the ICL, we decided to make a RAG.
 Retrieval-Augmented Generation (RAG) is a framework that combines the strengths of both retrieval-based and generative methods for natural language understanding and generation. In a typical RAG setup, you have two main components: a retriever and a generator. Here's how they work together:
-
 Retriever: When a query or prompt is received, the retriever component searches a large corpus of text to find relevant documents or passages. These are often called the "retrieved contexts".
-
 Generator: The generator is a sequence-to-sequence model that takes both the original query and the retrieved contexts as input to generate a response or answer.
-
 The core idea is to use the retriever to augment the generator with external knowledge, effectively combining the ability of retrieval-based models to access large stores of factual information with the nuanced, context-aware generation capabilities of sequence-to-sequence models.
-
 We use alos  Mistral-7B as model and Langchain.
 LangChain is a python open-source library that provides all the elements needed to build an NLP application (precisely a Retrieval Augmented Generation) and link its various parts together in simple pipelines called chains.
 
